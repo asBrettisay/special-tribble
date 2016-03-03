@@ -1,0 +1,24 @@
+{
+  "name": "devmtzon",
+  "version": "1.0.0",
+  "description": "A project from DevMountain for students to practice using Node and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brett Caudill",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.6.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/asBrettisay/special-tribble.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asBrettisay/special-tribble/issues"
+  },
+  "homepage": "https://github.com/asBrettisay/special-tribble#readme"
+}
